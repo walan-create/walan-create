@@ -1,7 +1,7 @@
 # ¡Hola, soy Alan! 🌐
 
 ### Bienvenido a mi rincón en GitHub
-Soy un apasionado desarrollador de software, con especial interés en el ámbito de la web y la inteligencia artificial. Aquí encontrarás una colección de mis proyectos, experimentos y algunas contribuciones a la comunidad de código abierto.
+Soy un apasionado estudiante del desarrollado de software, con especial interés en el ámbito de la web. Aquí encontrarás una colección de mis proyectos, experimentos y algunas contribuciones a la comunidad de código abierto.
 
 ### 💻 Tecnologías y Herramientas
 
@@ -25,17 +25,12 @@ Soy un apasionado desarrollador de software, con especial interés en el ámbito
 
 
 ### 🌟 Proyectos Destacados
-1. **Maqueta web de mi tienda(https://github.com/walan-create/Walan3DShop)**: Diseño de una página web para mi tienda personal 3D cómo proyecto de primer año de estudio.
-2. **[Nombre del Proyecto](enlace al proyecto)**: Descripción breve del proyecto y tecnologías utilizadas.
-3. **[Nombre del Proyecto](enlace al proyecto)**: Descripción breve del proyecto y tecnologías utilizadas.
+1. **Walan3DShop (https://github.com/walan-create/Walan3DShop)**:🏫 Diseño de una página web para mi tienda personal 3D cómo proyecto de primer año de estudio.
 
 ### 📝 Blog y Artículos
-- **[Título del Artículo](enlace al artículo)**: Breve descripción o resumen del contenido.
-- **[Título del Artículo](enlace al artículo)**: Breve descripción o resumen del contenido.
 
 ### 💬 Contacto
-- **Email**: [tu.email@example.com](mailto:tu.email@example.com)
+- **Email**: [alangonzalezmorales2003@gmail.com](mailto:alangonzalezmorales2003@gmail.com)
 - **LinkedIn**: [Tu Perfil de LinkedIn](enlace al perfil)
-- **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)
 
 ¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios y ponerte en contacto si tienes alguna pregunta o colaboración en mente.
