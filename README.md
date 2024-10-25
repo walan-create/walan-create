@@ -4,10 +4,10 @@
 Soy desarrollador apasionado por la tecnología, especialmente en el ámbito de la web y la inteligencia artificial. Aquí encontrarás una colección de mis proyectos, experimentos y algunas contribuciones a la comunidad de código abierto.
 
 ### 🚀 Tecnologías y Herramientas
-- **Lenguajes**: JavaScript, Python, Java, SQL
-- **Frameworks**: React, Node.js, Spring
-- **Herramientas**: Docker, Git, Jenkins
-- **Bases de Datos**: MySQL, PostgreSQL, MongoDB
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+  ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 
 ### 🌟 Proyectos Destacados
 1. **[Nombre del Proyecto](enlace al proyecto)**: Descripción breve del proyecto y tecnologías utilizadas.
