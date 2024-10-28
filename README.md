@@ -32,16 +32,16 @@
 ---
 
 ### <h3 align="center">🌟 Proyectos Destacados</h3>
-<p>
-<b>**Walan3DShop</b>: [Proyecto de primer curso DAW.](https://github.com/walan-create/Walan3DShop)
+<p align="center">
+<b>Walan3DShop</b>: [Proyecto de primer curso DAW.](https://github.com/walan-create/Walan3DShop)
 </p>
 
 ---
 
 ### <h3 align="center">💬 Contacto</h3>
-<p align="center">
-- **Email**: [alangonzalezmorales2003@gmail.com](mailto:alangonzalezmorales2003@gmail.com)<br>
-- **LinkedIn**: [Alan González Morales](https://www.linkedin.com/in/alan-gonzalez-morales-web-software-developer
+<p>
+<b>Email</b>: [alangonzalezmorales2003@gmail.com](mailto:alangonzalezmorales2003@gmail.com)<br>
+<b>Linkedin</b>: [Alan González Morales](https://www.linkedin.com/in/alan-gonzalez-morales-web-software-developer
 </p>
 
 ---
