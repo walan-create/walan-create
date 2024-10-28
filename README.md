@@ -32,5 +32,5 @@ Soy un apasionado estudiante del desarrollado de software, con especial interés
 ### 💬 Contacto
 - **Email**: [alangonzalezmorales2003@gmail.com](mailto:alangonzalezmorales2003@gmail.com)
 - **LinkedIn**: [Alan González Morales](www.linkedin.com/in/alan-gonzalez-morales-web-software-developer)
-<a>www.linkedin.com/in/alan-gonzalez-morales-web-software-developer</a>
+<a href="www.linkedin.com/in/alan-gonzalez-morales-web-software-developer">Alan González morales</a>
 ¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios y ponerte en contacto si tienes alguna pregunta o colaboración en mente.
