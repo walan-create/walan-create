@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Alan! 👋</h1>
+<h5 align="center">¡Hola, soy Alan! 👋</h5>
 
 ### <h3 align="center">Bienvenido a mi rincón en GitHub</h3>
 <p align="center">Soy un apasionado desarrollador de software, con especial interés en el ámbito de la web. Aquí encontrarás una colección de mis proyectos, experimentos y algunas contribuciones a la comunidad de código abierto.</p>
