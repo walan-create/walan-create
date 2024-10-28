@@ -40,8 +40,8 @@
 
 ### <h3 align="center">💬 Contacto</h3>
 <p>
-Email: [alangonzalezmorales2003@gmail.com](mailto:alangonzalezmorales2003@gmail.com)
-Linkedin: [Alan González Morales](https://www.linkedin.com/in/alan-gonzalez-morales-web-software-developer)
+- Email: [alangonzalezmorales2003@gmail.com](mailto:alangonzalezmorales2003@gmail.com)
+- Linkedin: [Alan González Morales](https://www.linkedin.com/in/alan-gonzalez-morales-web-software-developer)
 
 
 ---
