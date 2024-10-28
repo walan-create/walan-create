@@ -32,7 +32,6 @@
 ---
 
 ### <h3 align="center">🌟 Proyectos Destacados</h3>
-1. **Walan3DShop** https://github.com/walan-create/Walan3DShop :🏫 Diseño de una página web para mi tienda personal 3D cómo proyecto de primer año de estudio.
 <b>Walan3DShop</b>: [Proyecto de primer curso DAW.](https://github.com/walan-create/Walan3DShop)
 
 ---
