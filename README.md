@@ -3,7 +3,6 @@
 ### <h3 align="center">Bienvenido a mi rincón en GitHub</h3>
 <p align="center">Soy un apasionado desarrollador de software, con especial interés en el ámbito de la web. Aquí encontrarás una colección de mis proyectos, experimentos y algunas contribuciones a la comunidad de código abierto.</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -35,23 +34,21 @@
 <b>Walan3DShop</b>: [Proyecto de primer curso DAW.](https://github.com/walan-create/Walan3DShop)
 
 
-
-### <h3 align="center">💬 Contacto</h3>
-<p>
-- Email: [alangonzalezmorales2003@gmail.com](mailto:alangonzalezmorales2003@gmail.com)
-  
-- Linkedin: [Alan González Morales](https://www.linkedin.com/in/alan-gonzalez-morales-web-software-developer)
-
-### 📝 Blog y Artículos
-
 ### 💬 Contacto
 - **Email**: [alangonzalezmorales2003@gmail.com](mailto:alangonzalezmorales2003@gmail.com)
-- **LinkedIn**: [Alan González Morales](www.linkedin.com/in/alan-gonzalez-morales-62a6102b9)
+<a href="https://www.linkedin.com/in/alan-gonzalez-morales-web-software-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alan Gonzalez Morales" height="30" width="40" /></a>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walan-create&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=22334A&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github)<br>
-  
+<div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=walan-create&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walan-create&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios y ponerte en contacto si tienes alguna pregunta o colaboración en mente.
