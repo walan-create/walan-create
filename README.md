@@ -30,12 +30,14 @@
 </p>
 
   <br><br>
-<h2>🌟 Proyectos Destacados</h2>
+<h2 align="center">🌟 Proyectos Destacados</h2>
 
-<b>Walan3DShop</b>: [Proyecto de primer curso DAW.](https://github.com/walan-create/Walan3DShop)
+<a href="https://github.com/Davekibh/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walan-create&repo=Walan3DShop&theme=tokyonight" />
+</a>
 
 <br><br>
-<h2>💬 Contacto</h2>
+<h2 align="center">💬 Contacto</h2>
 
 - **Email**: [alangonzalezmorales2003@gmail.com](mailto:alangonzalezmorales2003@gmail.com)
 <a href="https://www.linkedin.com/in/alan-gonzalez-morales-web-software-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alan Gonzalez Morales" height="30" width="40" /></a>
