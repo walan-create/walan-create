@@ -50,7 +50,8 @@
 
 ---
 
-### <h3 align="center">📊 GitHub Stats</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <p align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walan-create&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=22334A&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github)<br>
   
