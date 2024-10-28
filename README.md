@@ -35,18 +35,16 @@
 <a href="https://github.com/walan-create/Walan3DShop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walan-create&repo=Walan3DShop&theme=tokyonight" />
 </a>
-<a href="https://github.com/walan-create/PillowTasker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walan-create&repo=PillowTasker&theme=tokyonight" />
-</a>
 
 <br><br>
 <h2 align="center">💬 Contacto</h2>
 
 - **Email**: [alangonzalezmorales2003@gmail.com](mailto:alangonzalezmorales2003@gmail.com)
 <a href="https://www.linkedin.com/in/alan-gonzalez-morales-web-software-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alan Gonzalez Morales" height="30" width="40" /></a>
+<a href="alangonzalezmorales2003@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="Alan Gonzalez Morales" height="30" width="40" /></a>
 
 <br><br>
-## <div align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></div
+## <div align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></div>
 
 <div align="center"> 
      <a href="">
