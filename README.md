@@ -32,8 +32,11 @@
   <br><br>
 <h2 align="center">🌟 Proyectos Destacados</h2>
 
-<a href="https://github.com/Davekibh/Background-generator">
+<a href="https://github.com/walan-create/Walan3DShop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walan-create&repo=Walan3DShop&theme=tokyonight" />
+</a>
+<a href="https://github.com/walan-create/PillowTasker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walan-create&repo=PillowTasker&theme=tokyonight" />
 </a>
 
 <br><br>
