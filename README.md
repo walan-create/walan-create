@@ -1,5 +1,5 @@
 # ¡Hola, soy Alan! 👋
-
+---
 ### Bienvenido a mi rincón en GitHub
 Soy un apasionado desarrollador de software, con especial interés en el ámbito de la web. Aquí encontrarás una colección de mis proyectos, experimentos y algunas contribuciones a la comunidad de código abierto.
 
