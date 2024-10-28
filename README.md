@@ -32,9 +32,8 @@
 ---
 
 ### <h3 align="center">🌟 Proyectos Destacados</h3>
-<p align="center">
+1. **Walan3DShop** https://github.com/walan-create/Walan3DShop :🏫 Diseño de una página web para mi tienda personal 3D cómo proyecto de primer año de estudio.
 <b>Walan3DShop</b>: [Proyecto de primer curso DAW.](https://github.com/walan-create/Walan3DShop)
-</p>
 
 ---
 
@@ -43,6 +42,11 @@
 - Email: [alangonzalezmorales2003@gmail.com](mailto:alangonzalezmorales2003@gmail.com)
 - Linkedin: [Alan González Morales](https://www.linkedin.com/in/alan-gonzalez-morales-web-software-developer)
 
+### 📝 Blog y Artículos
+
+### 💬 Contacto
+- **Email**: [alangonzalezmorales2003@gmail.com](mailto:alangonzalezmorales2003@gmail.com)
+- **LinkedIn**: [Alan González Morales](www.linkedin.com/in/alan-gonzalez-morales-62a6102b9)
 
 ---
 
