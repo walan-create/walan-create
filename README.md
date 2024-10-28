@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola, soy Alan! 👋</h1>
 
-### <h2 align="center">Bienvenido a mi rincón en GitHub</h2>
+### <h4 align="center">Bienvenido a mi rincón en GitHub</h4>
 <p align="center">Soy un apasionado desarrollador de software, con especial interés en el ámbito de la web. Aquí encontrarás una colección de mis proyectos, experimentos y algunas contribuciones a la comunidad de código abierto.</p>
 
 ---
