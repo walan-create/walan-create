@@ -28,7 +28,7 @@ Soy un apasionado estudiante del desarrollo de software, con especial interés e
 </p>
 
 ### 🌟 Proyectos Destacados
-1. **Walan3DShop**: [Diseño de una página web para mi tienda personal 3D cómo proyecto de primer año de estudio.](https://github.com/walan-create/Walan3DShop)
+1. **Walan3DShop**: [Proyecto de primer curso DAW.](https://github.com/walan-create/Walan3DShop)
 
 ### 📝 Blog y Artículos
 
