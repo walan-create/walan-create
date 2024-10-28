@@ -33,10 +33,8 @@
 
 ### <h3 align="center">🌟 Proyectos Destacados</h3>
 <p>
-1. **Walan3DShop**: [Proyecto de primer curso DAW.](https://github.com/walan-create/Walan3DShop)
+<b>**Walan3DShop</b>: [Proyecto de primer curso DAW.](https://github.com/walan-create/Walan3DShop)
 </p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=walan-create&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=22334A&text_color=D3D3D3&bg_color=0,000000,130F40&hide_progress=true&title_color=7A7ADB&icon_color=22334A&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 ---
 
