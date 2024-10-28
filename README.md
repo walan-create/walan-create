@@ -7,20 +7,20 @@
 
 ### <h3 align="center">🚀 Tecnologías y Herramientas</h3>
 
-#### <h4 align="center">Lenguajes</h4>
+#### <h3 align="center">Lenguajes</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 </p>
 
-#### <h4 align="center">Frameworks</h4>
+#### <h3 align="center">Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
 
-#### <h4 align="center">Tecnologías y Herramientas</h4>
+#### <h3 align="center">Tecnologías y Herramientas</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -32,7 +32,7 @@
 ---
 
 ### <h3 align="center">🌟 Proyectos Destacados</h3>
-<p align="center">
+<p>
 1. **Walan3DShop**: [Proyecto de primer curso DAW.](https://github.com/walan-create/Walan3DShop)
 </p>
 
