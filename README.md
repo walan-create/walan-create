@@ -36,9 +36,10 @@ Soy un apasionado desarrollador de software, con especial interés en el ámbito
 - **Email**: [alangonzalezmorales2003@gmail.com](mailto:alangonzalezmorales2003@gmail.com)
 - **LinkedIn**: [Alan González Morales](https://www.linkedin.com/in/alan-gonzalez-morales-web-software-developer)
 )
-
+---
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walan-create&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=22334A&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=walan-create&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=22334A&text_color=D3D3D3&bg_color=0,000000,130F40&hide_progress=true&title_color=7A7ADB&icon_color=22334A&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 
 ¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios y ponerte en contacto si tienes alguna pregunta o colaboración en mente.
