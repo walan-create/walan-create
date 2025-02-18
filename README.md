@@ -56,7 +56,10 @@
   
   <a href="https://www.linkedin.com/in/alan-gonzalez-morales-web-software-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alan Gonzalez Morales" height="30" width="40" /></a>
   <a href="mailto:alangonzalezmorales2003@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="Alan Gonzalez Morales" height="30" width="40" /></a>
-  
+  <a href="mailto:alangonzalezmorales2003@gmail.com" target="_blank">
+  <img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="Alan Gonzalez Morales" height="30" width="40">
+  </a>
+
   </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
