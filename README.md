@@ -36,11 +36,11 @@
   <a href="https://github.com/walan-create/Walan3DShop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=walan-create&repo=Walan3DShop&theme=tokyonight" alt="Walan3DShop" />
   </a>
+   <a href="https://github.com/walan-create/GifsApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=walan-create&repo=GifsApp&theme=tokyonight" alt="GifsApp" />
+  </a>
   <a href="https://github.com/walan-create/CountryApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=walan-create&repo=CountryApp&theme=tokyonight" alt="CountryApp" />
-  </a>
-  <a href="https://github.com/walan-create/GifsApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=walan-create&repo=GifsApp&theme=tokyonight" alt="GifsApp" />
   </a>
 </div>
 
