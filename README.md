@@ -32,9 +32,18 @@
   <br><br>
 <h2 align="center">🌟 Proyectos Destacados</h2>
 
-<a href="https://github.com/walan-create/Walan3DShop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walan-create&repo=Walan3DShop&theme=tokyonight" />
-</a>
+<div align="center">
+  <a href="https://github.com/walan-create/Walan3DShop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=walan-create&repo=Walan3DShop&theme=tokyonight" alt="Walan3DShop" />
+  </a>
+  <a href="https://github.com/walan-create/CountryApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=walan-create&repo=CountryApp&theme=tokyonight" alt="CountryApp" />
+  </a>
+  <a href="https://github.com/walan-create/GifsApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=walan-create&repo=GifsApp&theme=tokyonight" alt="GifsApp" />
+  </a>
+</div>
+
 
 <br><br>
 
